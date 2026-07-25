@@ -6,11 +6,11 @@ Repositorio general del curso: consolida los temas y conceptos vistos, y agrupa 
 
 ```
 Algoritmos-y-Programaci-n/
-├── Parciales/         # Submódulo → Parcial Tercio 1
+├── Parciales/         # Submódulo → Parcial
 ├── Tareas/             # Submódulos → Tarea 1 a Tarea 9
 ├── Quices/              # Submódulos → Impares, Trenes, Strings, Saber 11
-├── Talleres/             # Submódulo → Algoritmos de ordenamiento iterativos
-├── Contest/               # Submódulo → Contest 1 (Arenas)
+├── Talleres/             # Submódulo → Ordenamientos iterativos
+├── Contest/               # Submódulo → Arenas
 ├── TrabajosEnClase/        # Submódulos → ejercicios y entregables sueltos de clase
 └── Proyectos/                # Submódulos → Ahorcadito, Juego de Trenes y Saber 11 2020
 ```
