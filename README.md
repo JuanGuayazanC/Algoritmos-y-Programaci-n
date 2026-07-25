@@ -6,10 +6,13 @@ Repositorio general del curso: consolida los temas y conceptos vistos, y agrupa 
 
 ```
 Algoritmos-y-Programaci-n/
-├── Tercio1/    # Submódulos → Parcial, Tareas 1-5 y Trabajos en clase del tercio 1
-├── Tercio2/     # Submódulos → Quices, Contest 1, Tareas 6-9 y Trabajos en clase del tercio 2
-├── Tercio3/      # Submódulos → Quices, Taller de ordenamientos y Trabajos en clase del tercio 3
-└── Proyectos/     # Submódulos → Ahorcadito, Juego de Trenes y Saber 11 2020
+├── Parciales/         # Submódulo → Parcial Tercio 1
+├── Tareas/             # Submódulos → Tarea 1 a Tarea 9
+├── Quices/              # Submódulos → Impares, Trenes, Strings, Saber 11
+├── Talleres/             # Submódulo → Algoritmos de ordenamiento iterativos
+├── Contest/               # Submódulo → Contest 1 (Arenas)
+├── TrabajosEnClase/        # Submódulos → ejercicios y entregables sueltos de clase
+└── Proyectos/                # Submódulos → Ahorcadito, Juego de Trenes y Saber 11 2020
 ```
 
 ## Temas del curso
@@ -25,9 +28,10 @@ El curso recorre la construcción de algoritmos y programas en Python, de lo má
 
 ## Cosas a tener en cuenta
 
-- El curso avanza en tercios: cada uno introduce estructuras más complejas sobre las del anterior (secuencia → condicionales/subprogramas → recursión → ciclos/arreglos → búsqueda/ordenamiento).
-- Cada actividad (tarea, taller, quiz, contest) vive en su propio repositorio, con sus archivos `.py` ejecutables de forma independiente.
-- Los "Trabajos en clase" son ejercicios guiados de práctica dentro de cada tercio, distintos de las tareas evaluadas formalmente.
+- El curso avanza en tercios (no reflejados aquí): cada uno introduce estructuras más complejas sobre las del anterior (secuencia → condicionales/subprogramas → recursión → ciclos/arreglos → búsqueda/ordenamiento). El orden real dentro de cada categoría lo indica el número de cada tarea/quiz.
+- Cada actividad, ejercicio o entregable vive en su propio repositorio, con sus archivos `.py` ejecutables de forma independiente.
+- Cuando un ejercicio tiene una versión posterior que lo corrige o extiende (por ejemplo, una refactorización o una versión más completa), ambas quedan en el mismo repositorio como commits sucesivos, para conservar la trazabilidad de esa evolución.
+- `TrabajosEnClase/` agrupa los ejercicios guiados de práctica y los entregables puntuales de cada sesión, distintos de las tareas evaluadas formalmente.
 - Los proyectos (`Proyectos/`) son entregables más grandes que integran varios conceptos del curso en una aplicación completa, y tienen su propia estructura de README (con estado del proyecto, licencia, etc.), distinta de las actividades académicas sueltas.
 
 ## Herramientas

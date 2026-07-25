@@ -1,0 +1,172 @@
+[submodule "Parciales/Parcial-Tercio1-AYPR"]
+	path = Parciales/Parcial-Tercio1-AYPR
+	url = https://github.com/JuanGuayazanC/Parcial-Tercio1-AYPR.git
+	branch = main
+[submodule "Tareas/Tarea1-AlgoritmosEnSeudolenguaje-AYPR"]
+	path = Tareas/Tarea1-AlgoritmosEnSeudolenguaje-AYPR
+	url = https://github.com/JuanGuayazanC/Tarea1-AlgoritmosEnSeudolenguaje-AYPR.git
+	branch = main
+[submodule "Tareas/Tarea2-Condicionales-AYPR"]
+	path = Tareas/Tarea2-Condicionales-AYPR
+	url = https://github.com/JuanGuayazanC/Tarea2-Condicionales-AYPR.git
+	branch = main
+[submodule "Tareas/Tarea3-Subprogramas-AYPR"]
+	path = Tareas/Tarea3-Subprogramas-AYPR
+	url = https://github.com/JuanGuayazanC/Tarea3-Subprogramas-AYPR.git
+	branch = main
+[submodule "Tareas/Tarea4-CondicionalesYSubprogramas-AYPR"]
+	path = Tareas/Tarea4-CondicionalesYSubprogramas-AYPR
+	url = https://github.com/JuanGuayazanC/Tarea4-CondicionalesYSubprogramas-AYPR.git
+	branch = main
+[submodule "Tareas/Tarea5-FuncionesRecurrentes-AYPR"]
+	path = Tareas/Tarea5-FuncionesRecurrentes-AYPR
+	url = https://github.com/JuanGuayazanC/Tarea5-FuncionesRecurrentes-AYPR.git
+	branch = main
+[submodule "Tareas/Tarea6-Ciclos-AYPR"]
+	path = Tareas/Tarea6-Ciclos-AYPR
+	url = https://github.com/JuanGuayazanC/Tarea6-Ciclos-AYPR.git
+	branch = main
+[submodule "Tareas/Tarea7-Arreglos-AYPR"]
+	path = Tareas/Tarea7-Arreglos-AYPR
+	url = https://github.com/JuanGuayazanC/Tarea7-Arreglos-AYPR.git
+	branch = main
+[submodule "Tareas/Tarea8-Arreglos-AYPR"]
+	path = Tareas/Tarea8-Arreglos-AYPR
+	url = https://github.com/JuanGuayazanC/Tarea8-Arreglos-AYPR.git
+	branch = main
+[submodule "Tareas/Tarea9-Secuencias-AYPR"]
+	path = Tareas/Tarea9-Secuencias-AYPR
+	url = https://github.com/JuanGuayazanC/Tarea9-Secuencias-AYPR.git
+	branch = main
+[submodule "Quices/Quiz-Impares-AYPR"]
+	path = Quices/Quiz-Impares-AYPR
+	url = https://github.com/JuanGuayazanC/Quiz-Impares-AYPR.git
+	branch = main
+[submodule "Quices/Quiz-Trenes-AYPR"]
+	path = Quices/Quiz-Trenes-AYPR
+	url = https://github.com/JuanGuayazanC/Quiz-Trenes-AYPR.git
+	branch = main
+[submodule "Quices/Quiz-Strings-AYPR"]
+	path = Quices/Quiz-Strings-AYPR
+	url = https://github.com/JuanGuayazanC/Quiz-Strings-AYPR.git
+	branch = main
+[submodule "Quices/Quiz-Saber11-AYPR"]
+	path = Quices/Quiz-Saber11-AYPR
+	url = https://github.com/JuanGuayazanC/Quiz-Saber11-AYPR.git
+	branch = main
+[submodule "Talleres/Taller-OrdenamientosIterativos-AYPR"]
+	path = Talleres/Taller-OrdenamientosIterativos-AYPR
+	url = https://github.com/JuanGuayazanC/Taller-OrdenamientosIterativos-AYPR.git
+	branch = main
+[submodule "Contest/Contest1-Arenas-AYPR"]
+	path = Contest/Contest1-Arenas-AYPR
+	url = https://github.com/JuanGuayazanC/Contest1-Arenas-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Entrega-Dibujo1-AYPR"]
+	path = TrabajosEnClase/Entrega-Dibujo1-AYPR
+	url = https://github.com/JuanGuayazanC/Entrega-Dibujo1-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Entrega-Poligono-y-Circulo-AYPR"]
+	path = TrabajosEnClase/Entrega-Poligono-y-Circulo-AYPR
+	url = https://github.com/JuanGuayazanC/Entrega-Poligono-y-Circulo-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Entrega-Cuadricula-y-Llamado-a-Funciones-AYPR"]
+	path = TrabajosEnClase/Entrega-Cuadricula-y-Llamado-a-Funciones-AYPR
+	url = https://github.com/JuanGuayazanC/Entrega-Cuadricula-y-Llamado-a-Funciones-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Entrega-Valores-en-Orden-Ascendente-AYPR"]
+	path = TrabajosEnClase/Entrega-Valores-en-Orden-Ascendente-AYPR
+	url = https://github.com/JuanGuayazanC/Entrega-Valores-en-Orden-Ascendente-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Recursion-AYPR"]
+	path = TrabajosEnClase/Recursion-AYPR
+	url = https://github.com/JuanGuayazanC/Recursion-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Area-Circulo-AYPR"]
+	path = TrabajosEnClase/Area-Circulo-AYPR
+	url = https://github.com/JuanGuayazanC/Area-Circulo-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Iniciando-Python-AYPR"]
+	path = TrabajosEnClase/Iniciando-Python-AYPR
+	url = https://github.com/JuanGuayazanC/Iniciando-Python-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Ejercicios-Subprogramas-AYPR"]
+	path = TrabajosEnClase/Ejercicios-Subprogramas-AYPR
+	url = https://github.com/JuanGuayazanC/Ejercicios-Subprogramas-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Rectangulo-AYPR"]
+	path = TrabajosEnClase/Rectangulo-AYPR
+	url = https://github.com/JuanGuayazanC/Rectangulo-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Estructuras-Condicionales-Repetitivas-AYPR"]
+	path = TrabajosEnClase/Estructuras-Condicionales-Repetitivas-AYPR
+	url = https://github.com/JuanGuayazanC/Estructuras-Condicionales-Repetitivas-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Maquinita-de-Monedas-AYPR"]
+	path = TrabajosEnClase/Maquinita-de-Monedas-AYPR
+	url = https://github.com/JuanGuayazanC/Maquinita-de-Monedas-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Matriz-AYPR"]
+	path = TrabajosEnClase/Matriz-AYPR
+	url = https://github.com/JuanGuayazanC/Matriz-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Taller-Strings-AYPR"]
+	path = TrabajosEnClase/Taller-Strings-AYPR
+	url = https://github.com/JuanGuayazanC/Taller-Strings-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Arreglos-AYPR"]
+	path = TrabajosEnClase/Arreglos-AYPR
+	url = https://github.com/JuanGuayazanC/Arreglos-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Arreglos-Pares-AYPR"]
+	path = TrabajosEnClase/Arreglos-Pares-AYPR
+	url = https://github.com/JuanGuayazanC/Arreglos-Pares-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Distancia-Euclidiana-AYPR"]
+	path = TrabajosEnClase/Distancia-Euclidiana-AYPR
+	url = https://github.com/JuanGuayazanC/Distancia-Euclidiana-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Binarios-AYPR"]
+	path = TrabajosEnClase/Binarios-AYPR
+	url = https://github.com/JuanGuayazanC/Binarios-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Numdigitos-AYPR"]
+	path = TrabajosEnClase/Numdigitos-AYPR
+	url = https://github.com/JuanGuayazanC/Numdigitos-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Entrega-Taller-Listas-AYPR"]
+	path = TrabajosEnClase/Entrega-Taller-Listas-AYPR
+	url = https://github.com/JuanGuayazanC/Entrega-Taller-Listas-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Escalera-AYPR"]
+	path = TrabajosEnClase/Escalera-AYPR
+	url = https://github.com/JuanGuayazanC/Escalera-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Algoritmos-de-Busqueda-AYPR"]
+	path = TrabajosEnClase/Algoritmos-de-Busqueda-AYPR
+	url = https://github.com/JuanGuayazanC/Algoritmos-de-Busqueda-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Merge-Sort-AYPR"]
+	path = TrabajosEnClase/Merge-Sort-AYPR
+	url = https://github.com/JuanGuayazanC/Merge-Sort-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Datos-AYPR"]
+	path = TrabajosEnClase/Datos-AYPR
+	url = https://github.com/JuanGuayazanC/Datos-AYPR.git
+	branch = main
+[submodule "TrabajosEnClase/Repaso-Parcial-Tercer-Tercio-AYPR"]
+	path = TrabajosEnClase/Repaso-Parcial-Tercer-Tercio-AYPR
+	url = https://github.com/JuanGuayazanC/Repaso-Parcial-Tercer-Tercio-AYPR.git
+	branch = main
+[submodule "Proyectos/Ahorcadito-AYPR"]
+	path = Proyectos/Ahorcadito-AYPR
+	url = https://github.com/JuanGuayazanC/Ahorcadito-AYPR.git
+	branch = main
+[submodule "Proyectos/Juego-de-Trenes-AYPR"]
+	path = Proyectos/Juego-de-Trenes-AYPR
+	url = https://github.com/JuanGuayazanC/Juego-de-Trenes-AYPR.git
+	branch = main
+[submodule "Proyectos/Saber-11-2020-AYPR"]
+	path = Proyectos/Saber-11-2020-AYPR
+	url = https://github.com/JuanGuayazanC/Saber-11-2020-AYPR.git
+	branch = main
