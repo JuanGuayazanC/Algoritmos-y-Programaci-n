@@ -170,3 +170,39 @@
 	path = Proyectos/Saber-11-2020-AYPR
 	url = https://github.com/JuanGuayazanC/Saber-11-2020-AYPR.git
 	branch = main
+[submodule "Tareas/AlgoritmosEnSeudolenguaje-AYPR"]
+	path = Tareas/AlgoritmosEnSeudolenguaje-AYPR
+	url = https://github.com/JuanGuayazanC/AlgoritmosEnSeudolenguaje-AYPR.git
+	branch = main
+[submodule "Tareas/Condicionales-AYPR"]
+	path = Tareas/Condicionales-AYPR
+	url = https://github.com/JuanGuayazanC/Condicionales-AYPR.git
+	branch = main
+[submodule "Tareas/Subprogramas-AYPR"]
+	path = Tareas/Subprogramas-AYPR
+	url = https://github.com/JuanGuayazanC/Subprogramas-AYPR.git
+	branch = main
+[submodule "Tareas/CondicionalesYSubprogramas-AYPR"]
+	path = Tareas/CondicionalesYSubprogramas-AYPR
+	url = https://github.com/JuanGuayazanC/CondicionalesYSubprogramas-AYPR.git
+	branch = main
+[submodule "Tareas/FuncionesRecurrentes-AYPR"]
+	path = Tareas/FuncionesRecurrentes-AYPR
+	url = https://github.com/JuanGuayazanC/FuncionesRecurrentes-AYPR.git
+	branch = main
+[submodule "Tareas/Ciclos-AYPR"]
+	path = Tareas/Ciclos-AYPR
+	url = https://github.com/JuanGuayazanC/Ciclos-AYPR.git
+	branch = main
+[submodule "Tareas/Duplicados-y-Factoriales-AYPR"]
+	path = Tareas/Duplicados-y-Factoriales-AYPR
+	url = https://github.com/JuanGuayazanC/Duplicados-y-Factoriales-AYPR.git
+	branch = main
+[submodule "Tareas/Diferencias-Interseccion-y-Bolardos-AYPR"]
+	path = Tareas/Diferencias-Interseccion-y-Bolardos-AYPR
+	url = https://github.com/JuanGuayazanC/Diferencias-Interseccion-y-Bolardos-AYPR.git
+	branch = main
+[submodule "Tareas/Secuencias-AYPR"]
+	path = Tareas/Secuencias-AYPR
+	url = https://github.com/JuanGuayazanC/Secuencias-AYPR.git
+	branch = main
