@@ -2,42 +2,6 @@
 	path = Parciales/Parcial-AYPR
 	url = https://github.com/JuanGuayazanC/Parcial-AYPR.git
 	branch = main
-[submodule "Tareas/Tarea1-AlgoritmosEnSeudolenguaje-AYPR"]
-	path = Tareas/Tarea1-AlgoritmosEnSeudolenguaje-AYPR
-	url = https://github.com/JuanGuayazanC/Tarea1-AlgoritmosEnSeudolenguaje-AYPR.git
-	branch = main
-[submodule "Tareas/Tarea2-Condicionales-AYPR"]
-	path = Tareas/Tarea2-Condicionales-AYPR
-	url = https://github.com/JuanGuayazanC/Tarea2-Condicionales-AYPR.git
-	branch = main
-[submodule "Tareas/Tarea3-Subprogramas-AYPR"]
-	path = Tareas/Tarea3-Subprogramas-AYPR
-	url = https://github.com/JuanGuayazanC/Tarea3-Subprogramas-AYPR.git
-	branch = main
-[submodule "Tareas/Tarea4-CondicionalesYSubprogramas-AYPR"]
-	path = Tareas/Tarea4-CondicionalesYSubprogramas-AYPR
-	url = https://github.com/JuanGuayazanC/Tarea4-CondicionalesYSubprogramas-AYPR.git
-	branch = main
-[submodule "Tareas/Tarea5-FuncionesRecurrentes-AYPR"]
-	path = Tareas/Tarea5-FuncionesRecurrentes-AYPR
-	url = https://github.com/JuanGuayazanC/Tarea5-FuncionesRecurrentes-AYPR.git
-	branch = main
-[submodule "Tareas/Tarea6-Ciclos-AYPR"]
-	path = Tareas/Tarea6-Ciclos-AYPR
-	url = https://github.com/JuanGuayazanC/Tarea6-Ciclos-AYPR.git
-	branch = main
-[submodule "Tareas/Tarea7-Arreglos-AYPR"]
-	path = Tareas/Tarea7-Arreglos-AYPR
-	url = https://github.com/JuanGuayazanC/Tarea7-Arreglos-AYPR.git
-	branch = main
-[submodule "Tareas/Tarea8-Arreglos-AYPR"]
-	path = Tareas/Tarea8-Arreglos-AYPR
-	url = https://github.com/JuanGuayazanC/Tarea8-Arreglos-AYPR.git
-	branch = main
-[submodule "Tareas/Tarea9-Secuencias-AYPR"]
-	path = Tareas/Tarea9-Secuencias-AYPR
-	url = https://github.com/JuanGuayazanC/Tarea9-Secuencias-AYPR.git
-	branch = main
 [submodule "Quices/Impares-AYPR"]
 	path = Quices/Impares-AYPR
 	url = https://github.com/JuanGuayazanC/Impares-AYPR.git
