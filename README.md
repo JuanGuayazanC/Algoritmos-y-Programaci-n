@@ -1,6 +1,8 @@
-# Algoritmos y Programación
+# Algoritmos y Programación (AYPR)
 
-Repositorio general del curso: consolida los temas y conceptos vistos, y agrupa las actividades académicas y los proyectos como [submódulos de git](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+Repositorio general del curso Algoritmos y Programación (AYPR-6201), que agrupa —mediante submódulos de git— las actividades académicas y los proyectos del curso.
+
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
 
 ## Estructura del proyecto
 
@@ -48,10 +50,4 @@ Si ya clonaste el repositorio sin submódulos:
 
 ```bash
 git submodule update --init --recursive
-```
-
-Para traer las últimas actualizaciones de cada repositorio enlazado:
-
-```bash
-git submodule update --remote --merge
 ```
