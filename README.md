@@ -7,7 +7,7 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 ## Estructura del proyecto
 
 ```
-Algoritmos-y-Programaci-n/
+Algoritmos-y-Programacion/
 ├── Parciales/         # Submódulo → Parcial
 ├── Tareas/             # Submódulos → Tarea 1 a Tarea 9
 ├── Quices/              # Submódulos → Impares, Trenes, Strings, Saber 11
@@ -43,7 +43,7 @@ El curso recorre la construcción de algoritmos y programas en Python, de lo má
 ## Cómo clonar
 
 ```bash
-git clone --recurse-submodules https://github.com/JuanGuayazanC/Algoritmos-y-Programaci-n.git
+git clone --recurse-submodules https://github.com/JuanGuayazanC/Algoritmos-y-Programacion.git
 ```
 
 Si ya clonaste el repositorio sin submódulos:
