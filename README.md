@@ -1,8 +1,8 @@
 # Algoritmos y Programación (AYPR)
 
-Repositorio general del curso Algoritmos y Programación (AYPR-6201), que agrupa —mediante submódulos de git— las actividades académicas y los proyectos del curso.
+Repositorio general del curso Algoritmos y Programación, que agrupa —mediante submódulos de git— las actividades académicas y los proyectos del curso.
 
-Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
 ## Estructura del proyecto
 
@@ -30,7 +30,7 @@ El curso recorre la construcción de algoritmos y programas en Python, de lo má
 
 ## Cosas a tener en cuenta
 
-- El curso avanza en tercios (no reflejados aquí): cada uno introduce estructuras más complejas sobre las del anterior (secuencia → condicionales/subprogramas → recursión → ciclos/arreglos → búsqueda/ordenamiento). El orden real dentro de cada categoría lo indica el número de cada tarea/quiz.
+- El curso introduce las estructuras progresivamente, de menor a mayor complejidad (secuencia → condicionales/subprogramas → recursión → ciclos/arreglos → búsqueda/ordenamiento). El orden real dentro de cada categoría lo indica el número de cada tarea/quiz.
 - Cada actividad, ejercicio o entregable vive en su propio repositorio, con sus archivos `.py` ejecutables de forma independiente.
 - Cuando un ejercicio tiene una versión posterior que lo corrige o extiende (por ejemplo, una refactorización o una versión más completa), ambas quedan en el mismo repositorio como commits sucesivos, para conservar la trazabilidad de esa evolución.
 - `TrabajosEnClase/` agrupa los ejercicios guiados de práctica y los entregables puntuales de cada sesión, distintos de las tareas evaluadas formalmente.
@@ -40,7 +40,16 @@ El curso recorre la construcción de algoritmos y programas en Python, de lo má
 
 - **Python 3** — lenguaje usado en todo el curso.
 
-## Cómo clonar
+## Profesor
+
+Claudia Patricia Castañeda Bermúdez.
+
+## Cómo usar este repositorio
+
+Este repositorio no contiene código directamente: es una colección de repositorios independientes, uno por actividad, organizados por carpetas (`Parciales/`, `Tareas/`, `Quices/`, `Talleres/`, `Contest/`, `TrabajosEnClase/`, `Proyectos/`). Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+
+- **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.
+- **Para tener todo el contenido en tu máquina**:
 
 ```bash
 git clone --recurse-submodules https://github.com/JuanGuayazanC/Algoritmos-y-Programacion.git
