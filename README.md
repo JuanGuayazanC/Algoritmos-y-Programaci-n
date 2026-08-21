@@ -8,7 +8,7 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 
 ```
 Algoritmos-y-Programacion/
-├── Parciales/         # Submódulo → Parcial
+├── Parciales/         # Submódulos → Parcial primer tercio, parcial segundo tercio, evaluación final
 ├── Tareas/             # Submódulos → Tarea 1 a Tarea 9
 ├── Quices/              # Submódulos → Impares, Trenes, Strings, Saber 11
 ├── Talleres/             # Submódulo → Ordenamientos iterativos
