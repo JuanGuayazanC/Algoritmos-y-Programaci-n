@@ -1,7 +1,3 @@
-[submodule "Parciales/Parcial-AYPR"]
-	path = Parciales/Parcial-AYPR
-	url = https://github.com/JuanGuayazanC/Parcial-AYPR.git
-	branch = main
 [submodule "Quices/Impares-AYPR"]
 	path = Quices/Impares-AYPR
 	url = https://github.com/JuanGuayazanC/Impares-AYPR.git
@@ -169,4 +165,16 @@
 [submodule "Tareas/Secuencias-AYPR"]
 	path = Tareas/Secuencias-AYPR
 	url = https://github.com/JuanGuayazanC/Secuencias-AYPR.git
+	branch = main
+[submodule "Parciales/Parcial-Primer-Tercio-AYPR"]
+	path = Parciales/Parcial-Primer-Tercio-AYPR
+	url = https://github.com/JuanGuayazanC/Parcial-Primer-Tercio-AYPR.git
+	branch = main
+[submodule "Parciales/Parcial-Segundo-Tercio-AYPR"]
+	path = Parciales/Parcial-Segundo-Tercio-AYPR
+	url = https://github.com/JuanGuayazanC/Parcial-Segundo-Tercio-AYPR.git
+	branch = main
+[submodule "Parciales/Evaluacion-Final-AYPR"]
+	path = Parciales/Evaluacion-Final-AYPR
+	url = https://github.com/JuanGuayazanC/Evaluacion-Final-AYPR.git
 	branch = main
